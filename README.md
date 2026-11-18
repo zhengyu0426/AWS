@@ -1,4 +1,4 @@
-# AWS
+<img width="1918" height="954" alt="螢幕擷取畫面 2026-11-18 150726" src="https://github.com/user-attachments/assets/ff9e3cf6-d808-4618-8d4a-d53c72124b05" /><img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/c7554741-7efc-4328-bb1b-4e1df454e768" /># AWS
 <img width="1913" height="1079" alt="螢幕擷取畫面 2026-10-14 151432" src="https://github.com/user-attachments/assets/0c4fa654-7c96-4454-b258-f7a778d0f1b4" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-10-07 162905" src="https://github.com/user-attachments/assets/932629c4-91de-439e-8a59-b6a73631f30a" />
 <img width="1919" height="917" alt="螢幕擷取畫面 2026-09-30 153902" src="https://github.com/user-attachments/assets/077a7e30-53e5-41da-beaf-15cf54d832d3" />
@@ -8,3 +8,4 @@
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-10-28 154603" src="https://github.com/user-attachments/assets/3d85a70f-274c-4862-be04-5573b74c1161" />
 <img width="1897" height="1079" alt="螢幕擷取畫面 2026-11-11 153444" src="https://github.com/user-attachments/assets/ba44c828-ee51-4fc1-9240-78ac5240aabc" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-11-18 150239" src="https://github.com/user-attachments/assets/27584fbf-88bd-4bfe-b970-e8cf214e5d8a" />
+<img width="1918" height="954" alt="螢幕擷取畫面 2026-11-18 150726" src="https://github.com/user-attachments/assets/5680ea8f-b76c-45b5-a96e-d28a41672d7e" />
