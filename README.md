@@ -9,4 +9,5 @@
 <img width="1897" height="1079" alt="螢幕擷取畫面 2026-11-11 153444" src="https://github.com/user-attachments/assets/ba44c828-ee51-4fc1-9240-78ac5240aabc" />
 <img width="1919" height="1079" alt="螢幕擷取畫面 2026-11-18 150239" src="https://github.com/user-attachments/assets/27584fbf-88bd-4bfe-b970-e8cf214e5d8a" />
 <img width="1918" height="954" alt="螢幕擷取畫面 2026-11-18 150726" src="https://github.com/user-attachments/assets/5680ea8f-b76c-45b5-a96e-d28a41672d7e" />
-<img width="1024" height="768" alt="2024版本-電腦桌布" src="https://github.com/user-attachments/assets/bb789494-9155-41f2-b422-d804172c01ce" />
+<img width="1907" height="1059" alt="螢幕擷取畫面 2026-11-25 155454" src="https://github.com/user-attachments/assets/78d1d34f-542d-4794-bd6f-d329a4f9f165" />
+
